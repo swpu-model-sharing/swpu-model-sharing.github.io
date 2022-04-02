@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://swpu-model-sharing.github.io/cn/%E4%B8%80%E8%B7%AF%E8%81%8C%E9%80%9A%EF%BC%9A%E6%99%BA%E8%83%BD%E6%B1%82%E8%81%8C%EF%BC%8C%E7%B2%BE%E5%87%86%E5%86%B3%E7%AD%96/</loc>
+    
+    <lastmod>2022-04-02</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://swpu-model-sharing.github.io/tags/index.html</loc>
     
     <lastmod>2022-02-12</lastmod>
@@ -30,13 +37,6 @@
   </url>
   
   <url>
-    <loc>https://swpu-model-sharing.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
-    
-    <lastmod>2020-04-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://swpu-model-sharing.github.io/archive/index.html</loc>
     
     <lastmod>2017-03-20</lastmod>
@@ -53,7 +53,7 @@
 
   <url>
     <loc>https://swpu-model-sharing.github.io/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,7 +61,7 @@
   
   <url>
     <loc>https://swpu-model-sharing.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -70,7 +70,7 @@
   
   <url>
     <loc>https://swpu-model-sharing.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
-    <lastmod>2022-04-01</lastmod>
+    <lastmod>2022-04-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
