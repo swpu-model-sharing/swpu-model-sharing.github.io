@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://swpu-model-sharing.github.io/en/HJM/</loc>
+    <lastmod>2022-06-09</lastmod>
+  </url>
+  <url>
+    <loc>https://swpu-model-sharing.github.io/en/Z%E8%AF%84%E5%88%86/</loc>
+    <lastmod>2022-06-07</lastmod>
+  </url>
+  <url>
     <loc>https://swpu-model-sharing.github.io/en/STAR/</loc>
     <lastmod>2022-06-06</lastmod>
   </url>
